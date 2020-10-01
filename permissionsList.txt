@@ -1,0 +1,6 @@
+AIM User needs Allow on:
+
+DescribeSnapshots
+DescribeRegions
+DescribeTags
+DescribeVolumes
