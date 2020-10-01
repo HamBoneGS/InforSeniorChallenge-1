@@ -5,8 +5,8 @@
 from classes import SnapshotUtility
 
 # I assume I shouldn't give y'all my actual keys
-ACCESSKEY = "AKIASEE3GL7WKECBOP7D"
-SECRETKEY = "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"
+ACCESSKEY = "ABCD"
+SECRETKEY = "EFG"
 
 # Initialize snapshot utility
 su = SnapshotUtility()
